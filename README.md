@@ -1,2 +1,2 @@
 # multivariate-statistics
-lesson
+Autumn Semester
